@@ -1,0 +1,32 @@
+<annotation>
+	<source>
+		<database>Makerere Automated Lab Diagnostics Database</database>
+		<annotation>Makerere University</annotation>
+		<image>Mulago National Referral Hospital</image>
+	</source>
+	<segmented>0</segmented>
+	<object>
+		<label>plasmodium</label>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>457.6182</xmin>
+			<ymin>475.9882</ymin>
+			<xmax>497.6182</xmax>
+			<ymax>515.9882</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<label>plasmodium</label>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>698.3277</xmin>
+			<ymin>601.4105</ymin>
+			<xmax>738.3277</xmax>
+			<ymax>641.4105</ymax>
+		</bndbox>
+	</object>
+</annotation>
